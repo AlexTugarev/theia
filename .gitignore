@@ -5,4 +5,17 @@ lib
 *.log
 .idea
 .metadata
+*.iml
 jdt.ls-java-project
+lerna-debug.log
+.nyc_output
+coverage
+errorShots
+examples/*/src-gen
+examples/*/webpack.config.js
+.browser_modules
+**/docs/api
+package-backup.json
+.history
+.Trash-*
+packages/plugin/typedoc
